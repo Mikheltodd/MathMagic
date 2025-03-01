@@ -1,4 +1,5 @@
 # Math Magic
 
-Program for calculating the result of math operations.
+Programa para calcular un número mágico. 
+
 By Miguel Ortiz
